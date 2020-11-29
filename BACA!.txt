@@ -1,0 +1,7 @@
+Password Untuk Login
+
+Username : Riska Yunita
+Password : riskayunita
+
+Client : http://localhost/riskayunita-uts/client/index
+Admin : http://localhost/riskayunita-uts/admin/adminindex
